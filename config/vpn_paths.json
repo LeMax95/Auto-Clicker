@@ -1,4 +1,4 @@
 {
-    "expressvpn_directory": "C:\\Program Files (x86)\\ExpressVPN\\services",
+    "expressvpn_directory": "Path to VPN Services folder",
     "vpn_command": "ExpressVPN.CLI"
 }
