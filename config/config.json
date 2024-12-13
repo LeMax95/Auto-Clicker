@@ -1,5 +1,5 @@
 {
-    "vpn_path": "C:\\Program Files (x86)\\ExpressVPN\\services",
+    "vpn_path": "Path to Express VPN CLI",
     "detailed_report_path": "reports/detailed_report.txt",
     "summary_report_path": "reports/summary_report.txt",
     "min_stay_time": 120,
