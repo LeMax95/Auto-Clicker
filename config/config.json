@@ -1,0 +1,8 @@
+{
+    "vpn_path": "C:\\Program Files (x86)\\ExpressVPN\\services",
+    "detailed_report_path": "reports/detailed_report.txt",
+    "summary_report_path": "reports/summary_report.txt",
+    "min_stay_time": 120,
+    "max_stay_time": 180
+    
+}

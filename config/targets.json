@@ -1,0 +1,26 @@
+{
+    "targets": [
+        
+        {
+            "link": "https://covinamovers.net/",
+            "title": "Covina Movers",
+            "keywords": ["covina movers"],
+            "clicks_needed": 75
+        },
+        {
+            "link": "https://m.yelp.com/biz/cheap-movers-in-burbank-burbank",
+            "title": "CHEAP MOVERS IN BURBANK - Updated",
+            "keywords": ["burbank movers yelp","burbank cheap movers"],
+            "clicks_needed": 25
+          },
+          {
+            "link": "https://m.yelp.com/biz/cheap-movers-santa-clarita-santa-clarita-2", 
+            "title": "",
+            "keywords": ["cheap movers santa clarita yelp"],
+            "clicks_needed": 50
+          }
+
+    ]
+}
+
+  
